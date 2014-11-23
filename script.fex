@@ -328,7 +328,7 @@ lcd_dclk_freq = 65
 
 lcd_hbp = 320
 lcd_ht = 1348
-lcd_vbp = 38
+lcd_vbp = 35
 lcd_vt = 1692
 lcd_lvds_bitwidth = 1
 
